@@ -1,10 +1,12 @@
-# Pavan Kumar P  -- KAPLAN ASSIGNMENT
+# Pavan Kumar P  -- Senior UI Engineer
 
-# Run the Application
+*** Angular Material Application ***
+
+# To Run the Application
  1. npm install  
  2. npm start
 
-Run this on Browser:  http://localhost:4200/books
+Run this URL on Browser:  http://localhost:4200/books
 
 # Implementaion Covers
 
@@ -12,7 +14,7 @@ Run this on Browser:  http://localhost:4200/books
 2. Listing Books
 3. Search functionality with book title
 
-**** Few Screenshots ****
+**** Few App Screenshots ****
 
 ![img_1.png](img_1.png)
 
