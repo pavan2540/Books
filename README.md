@@ -1,8 +1,8 @@
 # Pavan Kumar P  -- KAPLAN ASSIGNMENT
 
 # Run the Application
- npm install
- npm start
+ 1. npm install  
+ 2. npm start
 
 Run this on Browser:  http://localhost:4200/books
 
